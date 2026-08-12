@@ -1,3 +1,2 @@
 # Dashboard Panadería Proyecto
-
-Hi! I'm your first Markdown file in *StackEdit. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer* on the left corner of the navigation bar.
+Este proyecto consiste en el desarrollo de un dashboard interactivo en Power BI para analizar el rendimiento comercial y la dinámica de ventas de una panadería. El objetivo principal es transformar datos transaccionales en información estratégica para facilitar la toma de decisiones sobre ingresos, productos y comportamiento temporal.
